@@ -13,3 +13,11 @@
 - Location: Karachi, Pakistan
 - Bio: Keep track of your activities throughout year
 - Github: https://github.com/Year-In-Review
+-----------
+
+### Yumna Asim
+- Photo: https://avatars2.githubusercontent.com/u/20601595?s=400&v=4
+- Location: Karachi, Pakistan
+- Bio: Android Developer, Writer, Community Moderator @ WomenInTechPK
+- Github: https://github.com/yumna11
+***
